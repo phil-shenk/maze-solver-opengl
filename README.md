@@ -2,7 +2,7 @@
 maze generation, rendering, and solving demonstration using OpenGL
 
 ### Instructions
-run 'make mazesolver'  
+run ```make mazesolver```  
   requires gcc, make, and GLEW, GLUT, opengl, libxmu, libxi, and linalglib (github.com/phil-shenk/linalglib)  
 
 ### Screenshots  
